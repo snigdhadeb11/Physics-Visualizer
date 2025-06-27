@@ -22,7 +22,7 @@ Intuitive User Interface: An easy-to-use interface makes the platform accessible
 🚀 Live Demo
 Experience the web-based prototype of GamEd here:
 
-Go to Live Demo: [PhysVis.]([url](https://physvis.lovable.app/))
+Go to Live Demo: [PhysVis]([url](https://physvis.lovable.app/))
 
 🛠️ Technologies Used
 Unity Engine: For 3D physics simulations and interactive scenes (C# scripting).
@@ -43,4 +43,3 @@ User-Created Content: Enabling users to save, share, and export their custom sim
 Enhanced Gamification: Adding more challenges, scenarios, leaderboards, and achievement systems to boost engagement.
 
 3D Environments and Multiplayer: Expanding to full 3D interactive environments and introducing collaborative multiplayer features.
-
