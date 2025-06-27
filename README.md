@@ -22,7 +22,7 @@ Its **modular design** supports tailored learning experiences, catering to a wid
 ## 🚀 Live Demo
 Experience the web-based prototype of **GamEd** here:
 
-🔗 **Go to Live Demo:** *[PhysVis]([url](https://physvis.lovable.app/))*
+🔗 **Go to Live Demo:** *[PhysVis]* https://physvis.lovable.app/
 
 ---
 
